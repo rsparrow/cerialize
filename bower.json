@@ -1,0 +1,25 @@
+{
+  "name": "cerialize",
+  "description": "Easy serialization throught ES7/Typescript annotations",
+  "main": "index.js",
+  "authors": [
+    "Matt Weichselbaum"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "serialize",
+    "typescript",
+    "es7",
+    "annotations",
+    "decoration",
+    "decorators"
+  ],
+  "homepage": "https://github.com/rsparrow/cerialize",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
